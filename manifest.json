@@ -1,0 +1,10 @@
+{
+  "name":"AI 视频大师",
+  "short_name":"AI视频大师",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#0b1020",
+  "theme_color":"#111827",
+  "lang":"zh-CN",
+  "icons":[]
+}
